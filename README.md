@@ -59,5 +59,5 @@ client.py
 Use speech recognition to find output a MATCHING between user-defined label and text output
 > How to use it…….  Depends on your imagination!!
 
-## Reference Github
+## Reference GitHub
 [A Deep-Learning-Based Chinese Speech Recognition System](https://github.com/nl8590687/ASRT_SpeechRecognition)

@@ -8,11 +8,11 @@ We developed a smarted Siri -- Commonly used text Input based on speech recognit
 ##### Speech Model
 VGG(CNN) + CTC
 > Use it to convert from .wav file to Pinyin
-> ![](./photos/Speech Model.png)
+> ![](./photos/Speech_Model.png)
 ##### Language Model
 Hidden Markov Model with Maximum Entropy Based on Probability Graph
 > Use it to convert from Pinyin to Chinese character
-> ![](./photos/Language Model.png)
+> ![](./photos/Language_Model.png)
 
 ### Experiment Setting
 ##### Software
@@ -26,13 +26,13 @@ Hidden Markov Model with Maximum Entropy Based on Probability Graph
 
 ### Our application
 #### 1. Input tags and triggered events
-![](./photos/step 1.png)
+![](./photos/step_1.png)
 #### 2. Do the sound recording
-![](./photos/step 2.png)
+![](./photos/step_2.png)
 #### 3. Use it in any text box
-![](./photos/step 3.png)
+![](./photos/step_3.png)
 #### 4. Delete when not use it
-![](./photos/step 4.png)
+![](./photos/step_4.png)
 
 ### How to run it
 1. Clone this repository in your PC
